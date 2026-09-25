@@ -21,7 +21,9 @@ Automatically update your GitHub profile README with your live Codeforces and Le
 
 - A Python script fetches your stats from the Codeforces API and LeetCode's GraphQL endpoint
 - A GitHub Actions workflow runs the script on a daily cron schedule
-- The script updates the content between `<!--STATS:START-->` and `<!--STATS:END-->` in your README and auto-commits the change
+- The script updates the content between `<!--STATS:START-->
+No usernames configured in config.json yet.
+<!--STATS:END-->` in your README and auto-commits the change
 
 ## 🛠️ Customize
 
